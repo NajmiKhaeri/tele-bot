@@ -1,3 +1,4 @@
+# donate : https://saweria.co/najmikhaeriap
 import telebot
 from telebot import types
 import openai
